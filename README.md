@@ -59,7 +59,7 @@ Once the system is set up, it will automatically detect available parking slots 
 
 ## Circuit Diagram
 
-Refer to the detailed circuit diagram in the `docs` folder.
+Refer to the detailed circuit diagram in the `Report` file.
 
 ## Code
 
