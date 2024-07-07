@@ -7,13 +7,13 @@
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 
-const char *ssid =  "Sai Jayanth";     // Enter your WiFi Name
+const char *ssid =  "POCO F3 GT";     // Enter your WiFi Name
 const char *pass =  "123456789"; // Enter your WiFi Password
 
 #define MQTT_SERV "io.adafruit.com"
 #define MQTT_PORT 1883
-#define MQTT_NAME "jayanth05"
-#define MQTT_PASS "aio_PXfO27eJfCQwD7FTmLhI9X88twO9"
+#define MQTT_NAME "jayanth03"
+#define MQTT_PASS "aio_vnhT46E3lm8Zf1r981IU5VK7i7Z5"
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org", 19800,60000);
 Servo myservo;                          //servo as gate
