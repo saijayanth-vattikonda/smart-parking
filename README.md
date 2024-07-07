@@ -124,8 +124,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any queries or support, please contact [Vattikonda Sai Jayanth](mailto:vattikondasaijayanthl@gmail.com).
-Connect with me on [LinkedIn](www.linkedin.com/in/sai-jayanth-vattikonda-2499b3228).
+For any queries or support, please contact [Vattikonda Sai Jayanth](mailto:vattikondasaijayanth@gmail.com).
 ---
 
 Feel free to modify this README file according to your needs.
