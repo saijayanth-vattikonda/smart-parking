@@ -16,6 +16,7 @@ The Smart Parking System is designed to provide an optimal solution for parking 
 - NodeMCU ESP8266
 - IR Sensor (4 units)
 - Servo Motor (2 units)
+- Jumping Wires
 
 ### Online Services
 - Adafruit IO
