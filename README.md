@@ -128,4 +128,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For any queries or support, please contact [Vattikonda Sai Jayanth](mailto:vattikondasaijayanth@gmail.com).
 ---
 
-Feel free to modify this README file according to your needs.
